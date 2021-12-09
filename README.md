@@ -1,1 +1,1 @@
-# Pneumonia-Detection
+# Malaria-Detection
